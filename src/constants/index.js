@@ -23,6 +23,10 @@ import {
   jobit,
   tripguide,
   threejs,
+  twitter,
+  instagram,
+  facebook,
+  linkedin,
 } from "../assets";
 
 export const navLinks = [
@@ -259,6 +263,25 @@ const projects = [
     ],
     image: tripguide,
     source_code_link: "https://github.com/",
+  },
+];
+
+export const socials = [
+  {
+    name: "twitter",
+    url: `${twitter}`,
+  },
+  {
+    name: "linkedin",
+    url: `${linkedin}`,
+  },
+  {
+    name: "instagram",
+    url: `${instagram}`,
+  },
+  {
+    name: "facebook",
+    url: `${facebook}`,
   },
 ];
 

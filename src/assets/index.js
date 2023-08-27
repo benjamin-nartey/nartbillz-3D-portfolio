@@ -6,6 +6,10 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import facebook from "./facebook.svg";
+import twitter from "./twitter.svg";
+import linkedin from "./linkedin.svg";
+import instagram from "./instagram.svg";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -59,4 +63,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  facebook,
+  twitter,
+  instagram,
+  linkedin,
 };
